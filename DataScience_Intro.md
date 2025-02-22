@@ -8,7 +8,7 @@
 - **4.Data Visualization**-Data visualization turns numbers into visuals like charts, graphs, and dashboards. It helps make complex data easy to understand.
 - **5.Statistics**-Statistics is the backbone of Data Science. It helps in understanding data, identifying patterns, and making sense of numbers.
 - **6.Machine Learning**-Machine Learning (ML) is a technique used to build models that can predict future outcomes or classify data.
-- Data Science is transforming industries worldwide. In retail, it powers recommendation systems and optimizes supply chains to ensure products are available when and where customers need them. In transportation, it enables route optimization, demand forecasting, and the development of autonomous vehicles. With the explosion of data from sources like social media, IoT devices, and sensors, the need for skilled data scientists is skyrocketing. Data Science continues to play a pivotal role in driving innovation and shaping the future of industries.
+Data Science is transforming industries worldwide. In retail, it powers recommendation systems and optimizes supply chains to ensure products are available when and where customers need them. In transportation, it enables route optimization, demand forecasting, and the development of autonomous vehicles. With the explosion of data from sources like social media, IoT devices, and sensors, the need for skilled data scientists is skyrocketing. Data Science continues to play a pivotal role in driving innovation and shaping the future of industries.
 # 2.Difference Between Data Science, AI, and Machine Learning
 - Data Science, AI, and Machine Learning are interconnected fields that work together to turn data into actionable insights and intelligent systems.
 ## DATA SCIENCE
