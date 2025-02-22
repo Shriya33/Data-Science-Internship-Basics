@@ -11,13 +11,13 @@
 
 Data Science is transforming industries worldwide. In retail, it powers recommendation systems and optimizes supply chains to ensure products are available when and where customers need them. In transportation, it enables route optimization, demand forecasting, and the development of autonomous vehicles. With the explosion of data from sources like social media, IoT devices, and sensors, the need for skilled data scientists is skyrocketing. Data Science continues to play a pivotal role in driving innovation and shaping the future of industries.
 # 2.Difference Between Data Science, AI, and Machine Learning
-- Data Science, AI, and Machine Learning are interconnected fields that work together to turn data into actionable insights and intelligent systems.
+Data Science, AI, and Machine Learning are interconnected fields that work together to turn data into actionable insights and intelligent systems.
 ## DATA SCIENCE
-- Data Science is the broader field that encompasses everything related to data, including data collection, cleaning, analysis, and visualization. It uses tools like Python, R, SQL, and libraries like NumPy, Pandas, and Matplotlib to process and interpret data. Data Science often serves as the foundation for AI and Machine Learning.
+Data Science is the broader field that encompasses everything related to data, including data collection, cleaning, analysis, and visualization. It uses tools like Python, R, SQL, and libraries like NumPy, Pandas, and Matplotlib to process and interpret data. Data Science often serves as the foundation for AI and Machine Learning.
 ## ARTIFICIAL INTELLIGENCE
-- Artificial Intelligence (AI) is a subset of computer science focused on creating systems that can perform tasks that typically require human intelligence. These tasks include reasoning, problem-solving, understanding natural language, and recognizing patterns. AI can be rule-based (traditional AI) or data-driven (modern AI, which often relies on Machine Learning).
+Artificial Intelligence (AI) is a subset of computer science focused on creating systems that can perform tasks that typically require human intelligence. These tasks include reasoning, problem-solving, understanding natural language, and recognizing patterns. AI can be rule-based (traditional AI) or data-driven (modern AI, which often relies on Machine Learning).
 ## MACHINE LEAENING
-- Machine Learning (ML) is a subset of AI that focuses on building algorithms that allow computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed, ML models improve their performance as they are exposed to more data over time. Examples include recommendation systems (like Netflix or Amazon) and image recognition
+Machine Learning (ML) is a subset of AI that focuses on building algorithms that allow computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed, ML models improve their performance as they are exposed to more data over time. Examples include recommendation systems (like Netflix or Amazon) and image recognition
 ## 🗝KEY COMPONENTS
 ## Goal
 - To uncover patterns, trends, and insights from data to solve real-world problems and support decision-making.
